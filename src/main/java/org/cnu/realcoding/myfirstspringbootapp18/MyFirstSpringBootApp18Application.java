@@ -1,0 +1,13 @@
+package org.cnu.realcoding.myfirstspringbootapp18;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MyFirstSpringBootApp18Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MyFirstSpringBootApp18Application.class, args);
+	}
+
+}
